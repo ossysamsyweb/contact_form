@@ -6,7 +6,7 @@ const messageInput = document.getElementById('message');
 const successMsg = document.getElementById('successMsg');
 
 // My Google Apps Sheet Web App URL
-const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbz-UZqL-hrppQS89nTvvc3g7ulxw5JK86rkNTqJmtdXXN03nPiBDkETvYrcPlZtkheB/exec";
+const GOOGLE_SHEET_URL = "https://script.google.com/macros/s/AKfycbxl6vVMjexGEpWICAHKii4NHV0h4fqoeWW6YBjY9J-345um28Uqe6EnQPbOHaKbWdw/exec";
 
 form.addEventListener('submit', async (e) => {
   e.preventDefault();
